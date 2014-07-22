@@ -28,6 +28,8 @@ setup(
     namespace_packages=['tutorweb'],
     install_requires=[
         'setuptools',
+        # Add-on dependencies go here
+        # e.g. 'collective.mathjax',
     ],
     extras_require={
         'test': [
