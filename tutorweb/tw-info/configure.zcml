@@ -7,7 +7,8 @@
 
     <!-- ZCML for packages we include -->
     <!-- e.g. <include package="collective.mathjax" />-->
-
+    <include package="collective.vaporisation" />
+    <include package="ftw.blog" />
     <!-- Our GS profile -->
     <genericsetup:registerProfile
         name="default"

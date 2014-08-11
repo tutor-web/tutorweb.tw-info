@@ -28,8 +28,11 @@ setup(
     namespace_packages=['tutorweb'],
     install_requires=[
         'setuptools',
+        'collective.vaporisation',
+        'ftw.blog',
         # Add-on dependencies go here
         # e.g. 'collective.mathjax',
+        
     ],
     extras_require={
         'test': [
