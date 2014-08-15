@@ -30,6 +30,7 @@ setup(
         'setuptools',
         'collective.vaporisation',
         'ftw.blog',
+        'webcouturier.dropdownmenu',
         # Add-on dependencies go here
         # e.g. 'collective.mathjax',
         

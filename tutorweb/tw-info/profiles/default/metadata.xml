@@ -4,5 +4,7 @@
     <!-- Dependencies, e.g. <dependency>profile-collective.mathjax:default</dependency> -->
     <dependency>profile-collective.vaporisation:default</dependency>
     <dependency>profile-ftw.blog:default</dependency>
+    <dependency>profile-webcouturier.dropdownmenu:default</dependency>
+
   </dependencies>
 </metadata>
