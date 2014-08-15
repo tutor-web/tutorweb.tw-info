@@ -9,6 +9,7 @@
     <!-- e.g. <include package="collective.mathjax" />-->
     <include package="collective.vaporisation" />
     <include package="ftw.blog" />
+	<include package="webcouturier.dropdownmenu" />
     <!-- Our GS profile -->
     <genericsetup:registerProfile
         name="default"
